@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_homework/java-sprint1-hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_homework/m1-t6-decoder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_homework/m1-t6-jar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_homework/m1-t6-jdk" vcs="Git" />
+  </component>
+</project>
