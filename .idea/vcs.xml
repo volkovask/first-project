@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test_homework" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test_homework/java-sprint1-hw" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test_homework/m1-t6-decoder" vcs="Git" />
